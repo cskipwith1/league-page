@@ -70,7 +70,7 @@ export const tabs = [
     },
     {
         icon: 'lightbulb',
-        label: 'Resources',
+        label: 'Fantasy News',
         dest: '/resources',
     },
 ];
