@@ -1,11 +1,6 @@
 import {leagueID} from '$lib/utils/leagueInfo';
 
 export const tabs = [
-    {
-        icon: 'home',
-        label: 'Home',
-        dest: '/',
-    },
         {
         icon: 'sports_football',
         label: 'League Website',
