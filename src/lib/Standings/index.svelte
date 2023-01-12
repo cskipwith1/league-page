@@ -117,3 +117,4 @@
         </DataTable>
     </div>
 {/if}
+Link to 2022 Season Standings
