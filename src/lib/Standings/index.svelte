@@ -117,4 +117,4 @@
         </DataTable>
     </div>
 {/if}
-Link to 2022 Season Standings
+<a href="https://extraordinarilyfreshffl.com/league-standings/">Click here for the 2022 Season Standings</a><br />
