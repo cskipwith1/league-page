@@ -6,6 +6,11 @@ export const tabs = [
         label: 'Home',
         dest: '/',
     },
+        {
+        icon: 'sports_football',
+        label: 'League Website',
+        dest: 'https://extraordinarilyfreshffl.com/',
+    },
     {
         icon: 'local_fire_department',
         label: 'Matchups',
