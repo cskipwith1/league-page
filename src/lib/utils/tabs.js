@@ -56,16 +56,11 @@ export const tabs = [
                 label: 'Records',
                 dest: '/records',
             },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
         ]
     },
     {
         icon: 'lightbulb',
-        label: 'Fantasy News',
-        dest: '/resources',
+        label: 'Go to Sleeper',
+        dest: `https://sleeper.app/leagues/${leagueID}`,
     },
 ];
