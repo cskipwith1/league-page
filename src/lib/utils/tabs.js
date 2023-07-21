@@ -33,8 +33,8 @@ export const tabs = [
             },
             {
                 icon: 'groups',
-                label: 'Managers',
-                dest: '/managers',
+                label: 'Keeper Values',
+                dest: 'https://football.fantasysports.yahoo.com/f1/draftanalysis?type=salcap',
             },
             {
                 icon: 'leaderboard',
