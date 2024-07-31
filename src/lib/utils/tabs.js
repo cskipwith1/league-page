@@ -7,7 +7,7 @@ export const tabs = [
         dest: 'https://extraordinarilyfreshffl.com/',
     },
     {
-        icon: 'local_fire_department',
+        icon: 'sports',
         label: 'Matchups',
         dest: '/matchups',
     },
@@ -35,6 +35,11 @@ export const tabs = [
                 icon: 'groups',
                 label: 'Keeper Values',
                 dest: 'https://football.fantasysports.yahoo.com/f1/draftanalysis?type=salcap',
+            },
+            {
+                icon: 'local_fire_department',
+                label: 'Rivalry',
+                dest: '/rivalry',
             },
             {
                 icon: 'leaderboard',
