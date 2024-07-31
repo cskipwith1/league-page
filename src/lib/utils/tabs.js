@@ -34,7 +34,7 @@ export const tabs = [
             {
                 icon: 'groups',
                 label: 'Keeper Values',
-                dest: 'https://football.fantasysports.yahoo.com/f1/draftanalysis?type=salcap',
+                dest: 'https://docs.google.com/spreadsheets/d/1Ya-mA1_mfW0fhw86iZPtERizyGuUVzS0pzGCl8kbyDs/edit?usp=sharing',
             },
             {
                 icon: 'local_fire_department',
